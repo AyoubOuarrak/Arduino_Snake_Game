@@ -98,8 +98,8 @@ void setup() {
    digitalWrite(9, HIGH);
    analogWrite(10, 100);
    //! the position of the fruit is in the middle of the screen
-   xFruit = (display.width()/2)+5;
-   yFruit = (display.height()/2)+5;
+   xFruit = (display.width()/2) + 5;
+   yFruit = (display.height()/2) + 5;
 
    showInfo();
 }
@@ -111,7 +111,7 @@ void loop() {
    yHeadSnake = snake_row[0];
    //! display the new level if i win and reset points and information
    if(point == 0 or point == points){
-      level++;
+      ++level;
       printLevel(level);
       delay(1500);
       upLevel(level);
