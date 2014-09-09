@@ -2,6 +2,8 @@
 using arduino and the old nokia
 3310 display (PCD8544)
 
+![alt tag](https://www.dropbox.com/sc/f7weqqodjyx6dk6/AAD0jIwc4p8SazNSPSSH93g4a)
+
 #Hardware
 - arduino uno  
 - nokia 3310 display  
