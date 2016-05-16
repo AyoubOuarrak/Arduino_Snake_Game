@@ -4,6 +4,8 @@ using arduino and the old nokia
 
 ![alt tag](http://cl.ly/image/1C0T3c3z0C3N/312558_133166523508240_756856555_n.jpg)
 
+(https://www.youtube.com/watch?v=y3MxgT6U4jI)
+
 #Hardware
 - arduino uno  
 - nokia 3310 display  
