@@ -1,12 +1,13 @@
-##Snake game on Arduino
+#Snake game on Arduino
 using arduino and the old nokia
 3310 display (PCD8544)
 
 ![alt tag](http://cl.ly/image/1C0T3c3z0C3N/312558_133166523508240_756856555_n.jpg)
 
-(https://www.youtube.com/watch?v=y3MxgT6U4jI)
+##video  
+https://www.youtube.com/watch?v=y3MxgT6U4jI)
 
-#Hardware
+##Hardware
 - arduino uno  
 - nokia 3310 display  
 - buzzer  
@@ -15,7 +16,7 @@ using arduino and the old nokia
 - 1uf capacitor
 - 12v battery 
 
-#Installation
+##Installation
 (PCD8544)  
  pin1 -> VDD(3.3V)  
  pin2 -> SCK  
